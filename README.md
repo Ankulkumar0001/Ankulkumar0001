@@ -1,7 +1,7 @@
 <img height="200" width="100%" alt="banner-codding" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif">
 <h1 align="center">Hi 👋, I'm Ankul kumar</h1>
 <h3 align="center">A passionate Full-Stack developer.</h3>
-<img align="right" alt="coding" width="350" style="border-radius:25px;" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankulkumar0001&label=Profile%20views&color=0e75b6&style=flat" alt="ankulkumar0001" /> </p>
