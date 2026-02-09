@@ -16,7 +16,7 @@
 <br>
 <div align="left">
    <a href="https://ankulkumar0001.netlify.app/" target="_blank">
-    <img src="https://png.pngtree.com/thumb_back/fh260/background/20220703/pngtree-portfolio-word-with-red-banner-advertising-display-isolated-photo-image_32297758.jpg" height="25" width="100" alt="Portfolio"  /></a>
+    <img src="https://cbx-prod.b-cdn.net/COLOURBOX31341059.jpg?width=800&height=800&quality=70" height="25" width="100" alt="Portfolio"  /></a>
   <a href="https://www.facebook.com/ankulsingh4861" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
